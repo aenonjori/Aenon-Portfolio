@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/aenonjori.github.io/Aenon-Portfolio/static/css/main.3550b743.css",
+    "main.js": "/aenonjori.github.io/Aenon-Portfolio/static/js/main.891e8a5b.js",
+    "static/media/project-2.jpeg": "/aenonjori.github.io/Aenon-Portfolio/static/media/project-2.3e3ba81e7304397b49a3.jpeg",
+    "static/media/DP.png": "/aenonjori.github.io/Aenon-Portfolio/static/media/DP.c24684ff77cc5a3082da.png",
+    "static/media/project-4.jpeg": "/aenonjori.github.io/Aenon-Portfolio/static/media/project-4.fd6de53b75963929e2a3.jpeg",
+    "static/media/project-3.jpeg": "/aenonjori.github.io/Aenon-Portfolio/static/media/project-3.7ee52c2470cce1e580de.jpeg",
+    "static/media/glitch.gif": "/aenonjori.github.io/Aenon-Portfolio/static/media/glitch.7c239d2f20afe1557b34.gif",
+    "static/media/project-1.jpeg": "/aenonjori.github.io/Aenon-Portfolio/static/media/project-1.f11115e5def996449908.jpeg",
+    "static/media/github.png": "/aenonjori.github.io/Aenon-Portfolio/static/media/github.9b32d8fd237781458b8f.png",
+    "static/media/brush.png": "/aenonjori.github.io/Aenon-Portfolio/static/media/brush.85c9bab5ba2d7dcae1e3.png",
+    "static/media/instagram.png": "/aenonjori.github.io/Aenon-Portfolio/static/media/instagram.4957451e22a545bb8fd4.png",
+    "static/media/linkedin.png": "/aenonjori.github.io/Aenon-Portfolio/static/media/linkedin.210d09f2e6fb6667f324.png",
+    "static/media/facebook.png": "/aenonjori.github.io/Aenon-Portfolio/static/media/facebook.3d8ab450e539c1ad8ea7.png",
+    "static/media/logo.png": "/aenonjori.github.io/Aenon-Portfolio/static/media/logo.1729dc61b389cce070d4.png",
+    "index.html": "/aenonjori.github.io/Aenon-Portfolio/index.html",
+    "main.3550b743.css.map": "/aenonjori.github.io/Aenon-Portfolio/static/css/main.3550b743.css.map",
+    "main.891e8a5b.js.map": "/aenonjori.github.io/Aenon-Portfolio/static/js/main.891e8a5b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3550b743.css",
+    "static/js/main.891e8a5b.js"
+  ]
+}
